@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3.2_LotteryTicket.vcxproj" Id="6f29c9ab-2202-48c5-96b0-a16829a44cb9" />
+</Solution>
